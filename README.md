@@ -1,4 +1,6 @@
-## 📝 Professional Summary
+# Lead Full-stack Engineer
+
+I'm a Lead Full-stack Engineer with over **15 years** of experience. I specialize in web applications and services, mainly using Typescript, React, Next.js for the frontend, and Node.js, Python for the backend. My strengths lie in product thinking and strategizing. I also have experience managing engineering teams and participating in product leadership.
 
 Engineering Manager with **10 + years** in frontend & full-stack development and **3 + years** leading teams in the Web3 space.
 
